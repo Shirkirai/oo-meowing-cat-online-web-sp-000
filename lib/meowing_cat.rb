@@ -6,4 +6,6 @@ class Cat
   def meow
     puts "meow!"
   end
+
+  def name=(name)
 end
